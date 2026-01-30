@@ -1,5 +1,27 @@
 # 💫 About Me:
-Hi! I’m Piyusha Akash, a tech enthusiast passionate about cybersecurity, ethical hacking, and open-source intelligence (OSINT). I love exploring how systems work under the hood and creating efficient solutions using code.
+## 🛡️ Offensive Security Enthusiast | Malware & Exploit Developer
+
+I am a Red Team focused security researcher driven by a deep curiosity about how software works—and how it can be manipulated. Currently, I am shifting my focus from high-level penetration testing to low-level system engineering to understand the core of Windows and Linux internals.
+
+### 🎯 My Focus Areas
+* **Offensive Security:** Ranked 1st in the TryHackMe League, with a strong foundation in network and web-based penetration testing.
+* **Malware Development:** Building custom, undetectable (FUD) tooling using Win32 APIs and native system calls (Direct Syscalls).
+* **Exploit Development:** Studying memory corruption, buffer overflows, and process injection techniques to bypass modern security solutions (AV/EDR).
+* **Reverse Engineering:** Breaking down binaries to understand their execution flow and identifying potential vulnerabilities.
+
+### 🛠️ Technical Toolkit
+* **Languages:** C, C++, Python, Bash, Assembly (x64)
+* **Operating Systems:** Windows (Internals & WinAPI), Kali Linux, Parrot OS
+* **Techniques:** Process Injection, API Hashing, Persistence Mechanisms, Shellcode Execution
+* **Platforms:** TryHackMe (Top Rank), HackTheBox, GitHub (Developing Toolsets)
+
+### 📈 Current Learning Path
+* [ ] Mastering **Direct Syscalls** (Hell's Gate/Halo's Gate) for EDR evasion.
+* [ ] Developing custom C2 (Command and Control) architecture.
+* [ ] Advanced PE (Portable Executable) file manipulation.
+
+---
+"I don't just use tools; I build them to understand the limit of defense."
 
 
 ## 🌐 Socials:

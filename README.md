@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 0x3xp | About Me:
 ## 🛡️ Offensive Security Enthusiast | Malware & Exploit Developer
 
 I am a Red Team focused security researcher driven by a deep curiosity about how software works—and how it can be manipulated. Currently, I am shifting my focus from high-level penetration testing to low-level system engineering to understand the core of Windows and Linux internals.
@@ -10,10 +10,10 @@ I am a Red Team focused security researcher driven by a deep curiosity about how
 * **Reverse Engineering:** Breaking down binaries to understand their execution flow and identifying potential vulnerabilities.
 
 ### 🛠️ Technical Toolkit
-* **Languages:** C, C++, Python, Bash, Assembly (x64)
+* **Languages:** C, C++, Bash, Assembly (x64)
 * **Operating Systems:** Windows (Internals & WinAPI), Kali Linux, Parrot OS
 * **Techniques:** Process Injection, API Hashing, Persistence Mechanisms, Shellcode Execution
-* **Platforms:** TryHackMe (Top Rank), HackTheBox, GitHub (Developing Toolsets)
+* **Platforms:** TryHackMe (Top Rank), HackTheBox, CrackMes.one(Reverse engineering projects), GitHub (Developing Toolsets)
 
 ### 📈 Current Learning Path
 * [ ] Mastering **Direct Syscalls** (Hell's Gate/Halo's Gate) for EDR evasion.

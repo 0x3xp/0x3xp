@@ -22,16 +22,16 @@
 
 ```
 +======================================================================+
-|                        [ OPERATOR PROFILE ]                         |
+|                        [ OPERATOR PROFILE ]                          |
 +======================================================================+
-|  Handle     :  0x3xp                                                |
-|  Role       :  Red Team Operator  .  Malware Developer              |
-|  Focus      :  Exploit Dev  .  Reverse Engineering  .  EDR Evasion  |
-|  Rank       :  #1  --  TryHackMe Sri Lanka League                   |
-|  Arenas     :  TryHackMe  .  HackTheBox  .  CrackMes.one            |
-|  Stack      :  C  .  C++  .  x64 ASM  .  Win32 API  .  Bash        |
-|  Web        :  https://0x3xp.github.io                              |
-|  Status     :  [ ################.. ]  Custom C2 in progress...     |
+|  Handle     :  0x3xp                                                 |
+|  Role       :  Red Team Operator  .  Malware Developer               |
+|  Focus      :  Exploit Dev  .  Reverse Engineering  .  EDR Evasion   |
+|  Rank       :  #1  --  TryHackMe Sri Lanka League                    |
+|  Arenas     :  TryHackMe  .  HackTheBox  .  CrackMes.one             |
+|  Stack      :  C  .  C++  .  x64 ASM  .  Win32 API  .  Bash          |
+|  Web        :  https://0x3xp.github.io                               |
+|  Status     :  [ ################.. ]  Custom C2 in progress...      |
 +======================================================================+
 ```
 

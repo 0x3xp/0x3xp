@@ -21,25 +21,25 @@
 ---
 
 ```
-╔══════════════════════════════════════════════════════════════════════╗
-║                        [ OPERATOR PROFILE ]                          ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  Handle     :  0x3xp                                                 ║
-║  Role       :  Red Team Operator  ·  Malware Developer               ║
-║  Focus      :  Exploit Dev  ·  Reverse Engineering  ·  EDR Evasion   ║
-║  Rank       :  #1  ─  TryHackMe Sri Lanka League                     ║
-║  Arenas     :  TryHackMe  ·  HackTheBox  ·  CrackMes.one             ║
-║  Stack      :  C  ·  C++  ·  x64 ASM  ·  Win32 API  ·  Bash          ║
-║  Web        :  https://0x3xp.github.io                               ║
-║  Status     :  [ ████████████████░░ ]  Custom C2 in progress...      ║
-╚══════════════════════════════════════════════════════════════════════╝
++======================================================================+
+|                        [ OPERATOR PROFILE ]                         |
++======================================================================+
+|  Handle     :  0x3xp                                                |
+|  Role       :  Red Team Operator  .  Malware Developer              |
+|  Focus      :  Exploit Dev  .  Reverse Engineering  .  EDR Evasion  |
+|  Rank       :  #1  --  TryHackMe Sri Lanka League                   |
+|  Arenas     :  TryHackMe  .  HackTheBox  .  CrackMes.one            |
+|  Stack      :  C  .  C++  .  x64 ASM  .  Win32 API  .  Bash        |
+|  Web        :  https://0x3xp.github.io                              |
+|  Status     :  [ ################.. ]  Custom C2 in progress...     |
++======================================================================+
 ```
 
 ---
 
 ## About
 
-I'm a low-level security researcher focused on the intersection of offensive tooling, Windows internals, and malware engineering. My work spans the full offensive pipeline — from initial recon and exploitation through to post-exploitation, persistence, and detection evasion at the syscall level.
+I am a low-level security researcher focused on offensive tooling, Windows internals, and malware engineering. My work spans the full offensive pipeline from initial recon and exploitation through to post-exploitation, persistence, and detection evasion at the syscall level.
 
 Currently transitioning from high-level penetration testing into **kernel-level research**, custom C2 development, and advanced EDR bypass techniques. Ranked **#1 in TryHackMe Sri Lanka** and actively competing on HackTheBox and CrackMes.one.
 
@@ -49,11 +49,11 @@ Currently transitioning from high-level penetration testing into **kernel-level 
 
 | Domain | Focus |
 |:---|:---|
-| 🔴 **Red Team Ops** | Network & web pentesting, internal AD attacks, custom tooling |
+| 🔴 **Red Team Ops** | Network and web pentesting, internal AD attacks, custom tooling |
 | 🧬 **Malware Development** | FUD implants, shellcode loaders, droppers, persistence mechanisms |
 | 💉 **Exploit Development** | Buffer overflows, process injection (Classic / Early Bird / APC Queue) |
 | 🔬 **Reverse Engineering** | PE analysis, x64 disassembly, binary patching, CrackMes |
-| 🛡️ **EDR / AV Evasion** | Hell's Gate, Halo's Gate, AMSI bypass, API hashing, ntdll unhooking |
+| 🛡️ **EDR / AV Evasion** | Hell'''s Gate, Halo'''s Gate, AMSI bypass, API hashing, ntdll unhooking |
 | ⚙️ **Windows Internals** | Win32 API, Direct Syscalls, DKOM, SSDT hooks, kernel driver research |
 
 ---
@@ -61,10 +61,10 @@ Currently transitioning from high-level penetration testing into **kernel-level 
 ## Active Research
 
 ```
-SYSCALL-GHOST   Direct Syscalls + ntdll unhooking for EDR bypass   [████████████░░░░]  75%
-DARKLINE-C2     Custom encrypted C2 architecture in C              [████████░░░░░░░░]  50%
-PEMANGLER       PE packer, import obfuscation, section encryption   [██████████░░░░░░]  60%
-RING0-GHOST     Kernel rootkit research — DKOM + SSDT hooks         [████░░░░░░░░░░░░]  25%
+SYSCALL-GHOST   Direct Syscalls + ntdll unhooking for EDR bypass   [############....]  75%
+DARKLINE-C2     Custom encrypted C2 architecture in C              [########........]  50%
+PEMANGLER       PE packer, import obfuscation, section encryption   [##########......]  60%
+RING0-GHOST     Kernel rootkit research -- DKOM + SSDT hooks        [####............]  25%
 ```
 
 ---
@@ -85,7 +85,7 @@ RING0-GHOST     Kernel rootkit research — DKOM + SSDT hooks         [███
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-00b0e8?style=flat-square&logo=linux&logoColor=white)
 
-**Reverse Engineering & Debugging**
+**Reverse Engineering and Debugging**
 
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-4a4a4a?style=flat-square&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-cc0000?style=flat-square&logo=gnu&logoColor=white)
@@ -112,9 +112,15 @@ RING0-GHOST     Kernel rootkit research — DKOM + SSDT hooks         [███
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=0x3xp&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x3xp&theme=github_dark" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x3xp&theme=github_dark" height="180" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x3xp&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=6" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0x3xp&theme=github_dark" height="180" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x3xp&theme=github_dark" height="180" />
 
 <br/><br/>
 
@@ -136,8 +142,6 @@ RING0-GHOST     Kernel rootkit research — DKOM + SSDT hooks         [███
 
 ## Contribution Snake
 
-> ⚙️ Activate by running the GitHub Action below once — then auto-updates daily.
-
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/0x3xp/0x3xp/output/github-snake-dark.svg" />
@@ -145,43 +149,6 @@ RING0-GHOST     Kernel rootkit research — DKOM + SSDT hooks         [███
   <img src="https://raw.githubusercontent.com/0x3xp/0x3xp/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
 </picture>
 </div>
-
-<details>
-<summary>Setup: <code>.github/workflows/snake.yml</code></summary>
-
-<br/>
-
-```yaml
-name: snake
-
-on:
-  schedule: [{ cron: "0 0 * * *" }]
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=00ff41
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Commit the file, then go to **Actions → snake → Run workflow**. Done.
-
-</details>
 
 ---
 
@@ -191,12 +158,12 @@ Commit the file, then go to **Actions → snake → Run workflow**. Done.
 
 | | Handle | |
 |:---:|:---:|:---:|
-| 🌐 Portfolio | `0x3xp.github.io` | [Visit →](https://0x3xp.github.io) |
-| 💼 LinkedIn | `piyushaakash` | [Connect →](https://linkedin.com/in/piyushaakash) |
-| 📺 YouTube | `@infoseclk` | [Subscribe →](https://youtube.com/@infoseclk) |
-| 🎵 TikTok | `@infoseclk` | [Follow →](https://tiktok.com/@infoseclk) |
-| 📸 Instagram | `piyushaakash` | [Follow →](https://instagram.com/piyushaakash) |
-| 📘 Facebook | `piyushaakash.lk` | [Follow →](https://facebook.com/piyushaakash.lk) |
+| 🌐 Portfolio | `0x3xp.github.io` | [Visit](https://0x3xp.github.io) |
+| 💼 LinkedIn | `piyushaakash` | [Connect](https://linkedin.com/in/piyushaakash) |
+| 📺 YouTube | `@infoseclk` | [Subscribe](https://youtube.com/@infoseclk) |
+| 🎵 TikTok | `@infoseclk` | [Follow](https://tiktok.com/@infoseclk) |
+| 📸 Instagram | `piyushaakash` | [Follow](https://instagram.com/piyushaakash) |
+| 📘 Facebook | `piyushaakash.lk` | [Follow](https://facebook.com/piyushaakash.lk) |
 
 <br/>
 

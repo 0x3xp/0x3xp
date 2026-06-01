@@ -1,282 +1,169 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0a0a0a,100:00ff41&height=220&section=header&text=0x3xp&fontSize=90&fontColor=00ff41&animation=fadeIn&fontAlignY=36&desc=Red%20Team%20%E2%80%A2%20Malware%20Dev%20%E2%80%A2%20Exploit%20Research&descAlignY=60&descColor=aaaaaa&descSize=17&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff41&height=210&section=header&text=0x3xp&fontSize=85&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=Offensive%20Security%20Researcher%20%7C%20Red%20Team%20%7C%20Malware%20Dev&descAlignY=60&descColor=888888&descSize=15" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/0x3xp">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=750&height=40&lines=whoami+%E2%86%92+Red+Team+Operator+%7C+%231+TryHackMe;Building+FUD+implants+%7C+Win32+API+%7C+Direct+Syscalls;Malware+Dev+%7C+Exploit+Research+%7C+EDR+Evasion;Reverse+Engineering+%7C+x64+Assembly+%7C+PE+Internals;The+matrix+has+you...+follow+the+white+rabbit." alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1000&color=00FF41&center=true&vCenter=true&width=720&lines=Red+Team+Operator+%E2%80%94+%231+TryHackMe+Sri+Lanka;Malware+Dev+%7C+Win32+API+%7C+Direct+Syscalls;EDR+Evasion+%7C+Hell%27s+Gate+%7C+Halo%27s+Gate;Reverse+Engineering+%7C+x64+ASM+%7C+PE+Internals;The+matrix+has+you...+follow+the+white+rabbit." />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0x3xp.github.io-00ff41?style=flat-square&logo=githubpages&logoColor=white&labelColor=0d1117)](https://0x3xp.github.io)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-piyushaakash-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/piyushaakash)&nbsp;
+[![YouTube](https://img.shields.io/badge/YouTube-infoseclk-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtube.com/@infoseclk)&nbsp;
+[![TikTok](https://img.shields.io/badge/TikTok-infoseclk-ffffff?style=flat-square&logo=tiktok&logoColor=white&labelColor=0d1117)](https://tiktok.com/@infoseclk)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-piyushaakash-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/piyushaakash)
+
+<img src="https://komarev.com/ghpvc/?username=0x3xp&style=flat-square&color=00ff41&labelColor=0d1117&label=profile+views" />
+
+</div>
 
 <br/>
 
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0x3xp.github.io-00ff41?style=for-the-badge&labelColor=0d1117)](https://0x3xp.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-piyushaakash-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/piyushaakash)
-[![YouTube](https://img.shields.io/badge/YouTube-infoseclk-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117)](https://youtube.com/@infoseclk)
-[![TikTok](https://img.shields.io/badge/TikTok-infoseclk-fff?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=0d1117)](https://tiktok.com/@infoseclk)
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=0x3xp&icon=5&color=6)](https://visitcount.itsvg.in)
-
-</div>
-
 ---
-
-<!-- ABOUT ME TERMINAL BLOCK -->
-<div align="center">
-
-```bash
-┌──(0x3xp㉿kali)-[~/about]
-└─$ cat whoami.txt
-```
-
-</div>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
-║                        OPERATOR PROFILE                             ║
+║                        [ OPERATOR PROFILE ]                          ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║  Handle     : 0x3xp                                                 ║
-║  Role       : Red Team Operator | Malware Developer                 ║
-║  Specialty  : Exploit Dev | Reverse Engineering | EDR Evasion       ║
-║  Rank       : #1 — TryHackMe Sri Lanka League                       ║
-║  Platforms  : TryHackMe | HackTheBox | CrackMes.one                 ║
-║  OS         : Windows Internals | Kali Linux | Parrot OS            ║
-║  Status     : [ ██████████████░░ ] Building next-gen tooling...     ║
+║  Handle     :  0x3xp                                                 ║
+║  Role       :  Red Team Operator  ·  Malware Developer               ║
+║  Focus      :  Exploit Dev  ·  Reverse Engineering  ·  EDR Evasion   ║
+║  Rank       :  #1  ─  TryHackMe Sri Lanka League                     ║
+║  Arenas     :  TryHackMe  ·  HackTheBox  ·  CrackMes.one             ║
+║  Stack      :  C  ·  C++  ·  x64 ASM  ·  Win32 API  ·  Bash          ║
+║  Web        :  https://0x3xp.github.io                               ║
+║  Status     :  [ ████████████████░░ ]  Custom C2 in progress...      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24" /> `> ./mission_brief.sh`
+## About
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm a low-level security researcher focused on the intersection of offensive tooling, Windows internals, and malware engineering. My work spans the full offensive pipeline — from initial recon and exploitation through to post-exploitation, persistence, and detection evasion at the syscall level.
 
-### 🔴 Offensive Operations
-- Ranked **#1** on TryHackMe — Sri Lanka League
-- Deep expertise in network & web-based penetration testing
-- Active competitor on **HackTheBox**
-- Custom red team tooling development from scratch
-
-### 🧬 Malware Engineering
-- Building **FUD** (Fully Undetectable) implants
-- Win32 API abuse & **Direct Syscalls**
-- **Hell's Gate / Halo's Gate** implementations
-- Custom shellcode loaders & stagers
-
-</td>
-<td width="50%" valign="top">
-
-### 💉 Exploit Development
-- Memory corruption & **buffer overflow** exploitation
-- **Process injection** techniques (Classic, Early Bird, APC)
-- Modern AV/EDR bypass research
-- Studying **AMSI patching** & hook evasion
-
-### 🔬 Reverse Engineering
-- Binary analysis on **CrackMes.one**
-- PE structure deep-dives
-- x64 disassembly & execution flow tracing
-- Identifying logical vulnerabilities in compiled code
-
-</td>
-</tr>
-</table>
+Currently transitioning from high-level penetration testing into **kernel-level research**, custom C2 development, and advanced EDR bypass techniques. Ranked **#1 in TryHackMe Sri Lanka** and actively competing on HackTheBox and CrackMes.one.
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> `> lscpu && lsmod`
+## Expertise
 
-<div align="center">
-
-### Languages & Low-Level
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly_x64-black?style=for-the-badge&logo=assemblyscript&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-### Systems & Platforms
-
-![Windows](https://img.shields.io/badge/Windows_Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black)
-
-### Security Toolchain
-
-![Ghidra](https://img.shields.io/badge/Ghidra-red?style=for-the-badge&logo=gnu&logoColor=white)
-![x64dbg](https://img.shields.io/badge/x64dbg-000000?style=for-the-badge&logo=windows-terminal&logoColor=00ff41)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-
-</div>
+| Domain | Focus |
+|:---|:---|
+| 🔴 **Red Team Ops** | Network & web pentesting, internal AD attacks, custom tooling |
+| 🧬 **Malware Development** | FUD implants, shellcode loaders, droppers, persistence mechanisms |
+| 💉 **Exploit Development** | Buffer overflows, process injection (Classic / Early Bird / APC Queue) |
+| 🔬 **Reverse Engineering** | PE analysis, x64 disassembly, binary patching, CrackMes |
+| 🛡️ **EDR / AV Evasion** | Hell's Gate, Halo's Gate, AMSI bypass, API hashing, ntdll unhooking |
+| ⚙️ **Windows Internals** | Win32 API, Direct Syscalls, DKOM, SSDT hooks, kernel driver research |
 
 ---
 
-## `> cat current_ops.md`
+## Active Research
 
-```bash
-┌──(0x3xp㉿kali)-[~/research]
-└─$ cat roadmap.json | jq '.active_research[]'
 ```
-
-```json
-{
-  "active_research": [
-    {
-      "topic": "Direct Syscalls — Hell's Gate & Halo's Gate",
-      "goal": "EDR evasion via ntdll hook bypass",
-      "status": "[ ████████████░░░░ ] 75%"
-    },
-    {
-      "topic": "Custom C2 Framework",
-      "goal": "Encrypted, modular C2 architecture from scratch",
-      "status": "[ ████████░░░░░░░░ ] 50%"
-    },
-    {
-      "topic": "PE Manipulation & Packing",
-      "goal": "Advanced portable executable obfuscation",
-      "status": "[ ██████████░░░░░░ ] 60%"
-    },
-    {
-      "topic": "Kernel-Mode Rootkit Research",
-      "goal": "Windows kernel driver development & DKOM",
-      "status": "[ ███░░░░░░░░░░░░░ ] 20%"
-    }
-  ]
-}
+SYSCALL-GHOST   Direct Syscalls + ntdll unhooking for EDR bypass   [████████████░░░░]  75%
+DARKLINE-C2     Custom encrypted C2 architecture in C              [████████░░░░░░░░]  50%
+PEMANGLER       PE packer, import obfuscation, section encryption   [██████████░░░░░░]  60%
+RING0-GHOST     Kernel rootkit research — DKOM + SSDT hooks         [████░░░░░░░░░░░░]  25%
 ```
 
 ---
 
-## `> git log --all --stat`
+## Technical Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=cplusplus&logoColor=white)
+![Assembly x64](https://img.shields.io/badge/Assembly_x64-0d1117?style=flat-square&logo=assemblyscript&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-1a1a1a?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+
+**Operating Systems**
+
+![Windows Internals](https://img.shields.io/badge/Windows_Internals-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-00b0e8?style=flat-square&logo=linux&logoColor=white)
+
+**Reverse Engineering & Debugging**
+
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-4a4a4a?style=flat-square&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-cc0000?style=flat-square&logo=gnu&logoColor=white)
+![x64dbg](https://img.shields.io/badge/x64dbg-0d1117?style=flat-square&logo=windowsterminal&logoColor=00ff41)
+![WinDbg](https://img.shields.io/badge/WinDbg-0078D6?style=flat-square&logo=windows&logoColor=white)
+![GDB](https://img.shields.io/badge/GDB-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-4B0082?style=flat-square&logoColor=white)
+![Radare2](https://img.shields.io/badge/Radare2-1C1C1C?style=flat-square&logoColor=00ff41)
+
+**Offensive Security**
+
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-8B0000?style=flat-square&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-0d1117?style=flat-square&logo=python&logoColor=00ff41)
+![BloodHound](https://img.shields.io/badge/BloodHound-8B0000?style=flat-square&logoColor=white)
+![Mimikatz](https://img.shields.io/badge/Mimikatz-333333?style=flat-square&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logoColor=00ff41)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=0x3xp&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x3xp&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-readme-stats.vercel.app/api?username=0x3xp&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" height="160" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x3xp&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=6" height="160" />
 
 <br/><br/>
 
-<img width="68%" src="https://streak-stats.demolab.com?user=0x3xp&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=aaaaaa&dates=aaaaaa" />
+<img src="https://streak-stats.demolab.com?user=0x3xp&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=888888&dates=888888&stroke=0d1117" height="150" />
 
 </div>
 
 ---
 
-## `> trophy --display elite`
+## Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=0x3xp&theme=onedark&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0x3xp&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003300&hide_border=true&custom_title=Contribution%20Activity%20%E2%80%94%200x3xp)](https://github.com/0x3xp)
 
 </div>
 
 ---
 
-## `> git log --contributors`
+## Contribution Snake
+
+> ⚙️ Activate by running the GitHub Action below once — then auto-updates daily.
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0x3xp&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true&custom_title=0x3xp%20%E2%80%94%20Contribution%20Activity)](https://github.com/0x3xp)
-
-</div>
-
----
-
-## `> cat activity_graph.svg`
-
-<div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x3xp/0x3xp/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/0x3xp/0x3xp/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x3xp/0x3xp/output/github-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/0x3xp/0x3xp/output/github-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/0x3xp/0x3xp/output/github-snake-dark.svg" width="100%" alt="contribution snake" />
 </picture>
-
 </div>
-
----
-
-## `> echo $PHILOSOPHY`
-
-<div align="center">
-
-```
-"Security is not a product, but a process —
- and that process starts at the lowest level of the stack."
-```
-
-<br/>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## `> ./connect.sh --enumerate-socials`
-
-<div align="center">
-
-| Platform | Handle | Action |
-|:---:|:---:|:---:|
-| 🌐 **Portfolio** | `0x3xp.github.io` | [**Visit →**](https://0x3xp.github.io) |
-| 💼 **LinkedIn** | `piyushaakash` | [**Connect →**](https://linkedin.com/in/piyushaakash) |
-| 📺 **YouTube** | `@infoseclk` | [**Subscribe →**](https://youtube.com/@infoseclk) |
-| 🎵 **TikTok** | `@infoseclk` | [**Follow →**](https://tiktok.com/@infoseclk) |
-| 📘 **Facebook** | `piyushaakash.lk` | [**Follow →**](https://facebook.com/piyushaakash.lk) |
-| 📸 **Instagram** | `piyushaakash` | [**Follow →**](https://instagram.com/piyushaakash) |
-| 🖥️ **GitHub** | `0x3xp` | [**Profile →**](https://github.com/0x3xp) |
-
-</div>
-
----
-
-<div align="center">
-
-<sub>If my research, tools, or content helped you level up your ops — fuel the grind:</sub>
-
-<br/><br/>
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support_the_Ops-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=1a1a1a)](https://buymeacoffee.com/PiyushaAkash)
-
-</div>
-
----
 
 <details>
-<summary><b>⚙️ One-Time Setup: Animated Snake (GitHub Action)</b></summary>
+<summary>Setup: <code>.github/workflows/snake.yml</code></summary>
 
 <br/>
 
-The snake animation above reads from your own repo's `output` branch — so it will be blank until you run this action once. It auto-updates daily after that.
-
-**1.** In your `0x3xp` profile repo, create: `.github/workflows/snake.yml`
-
 ```yaml
-name: Generate Snake Animation
+name: snake
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  schedule: [{ cron: "0 0 * * *" }]
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v3
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
@@ -284,9 +171,7 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark&color_snake=00ff41
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
@@ -294,24 +179,38 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-**2.** Go to **Actions tab → Generate Snake Animation → Run workflow** to trigger it once manually.
-
-**3.** Done. It runs automatically every 24h from then on.
+Commit the file, then go to **Actions → snake → Run workflow**. Done.
 
 </details>
 
 ---
 
+## Get in Touch
+
 <div align="center">
 
-```bash
-┌──(0x3xp㉿kali)-[~]
-└─$ sudo shutdown -h now
-[ OK ] "Knowledge is the only weapon they can't patch."
-[ OK ] Stopping all processes... done.
-```
+| | Handle | |
+|:---:|:---:|:---:|
+| 🌐 Portfolio | `0x3xp.github.io` | [Visit →](https://0x3xp.github.io) |
+| 💼 LinkedIn | `piyushaakash` | [Connect →](https://linkedin.com/in/piyushaakash) |
+| 📺 YouTube | `@infoseclk` | [Subscribe →](https://youtube.com/@infoseclk) |
+| 🎵 TikTok | `@infoseclk` | [Follow →](https://tiktok.com/@infoseclk) |
+| 📸 Instagram | `piyushaakash` | [Follow →](https://instagram.com/piyushaakash) |
+| 📘 Facebook | `piyushaakash.lk` | [Follow →](https://facebook.com/piyushaakash.lk) |
 
 <br/>
+
+[![Support](https://img.shields.io/badge/Buy_Me_A_Coffee-ffdd00?style=flat-square&logo=buymeacoffee&logoColor=black&labelColor=1a1a1a)](https://buymeacoffee.com/PiyushaAkash)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub><i>"Security is not a product, but a process — and that process starts at the lowest level of the stack."</i></sub>
+
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:0d1117,100:000000&height=120&section=footer" />
 

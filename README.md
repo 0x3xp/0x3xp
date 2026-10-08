@@ -9,6 +9,7 @@ Ranked #1 on TryHackMe Leagues Sri Lanka.
 * [Portfolio](https://0x3xp.github.io)
 * [LinkedIn](https://linkedin.com/in/piyushaakash)
 * [YouTube](https://youtube.com/@infoseclk)
+* [X(Twitter)](https://x.com/0xmrlowlevel)
 
 **Writing**
 

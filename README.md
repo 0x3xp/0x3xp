@@ -6,8 +6,6 @@ I'm a low-level security engineer and offensive tooling developer focused on AV/
 
 **[CVE-2026-115449](https://nvd.nist.gov/vuln/detail/CVE-2026-115449) | libslirp**
 
-Discovered and reported an ICMP echo reply length desynchronization vulnerability that can expose the host's real IP address to a guest under specific user-mode networking conditions.
-
 **Socials**
 
 * [Portfolio](https://0x3xp.github.io)

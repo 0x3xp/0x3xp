@@ -2,9 +2,7 @@ Hey, I'm Mr. LowLevel (0x3xp).
 
 I'm a low-level security engineer and offensive tooling developer focused on AV/EDR evasion, Windows internals, and red team operations. Currently building a C2 and pushing into ring-0 research.
 
-Ranked #1 on TryHackMe Leagues Sri Lanka.
-
-## Vulnerability Research
+**Vulnerability Research**
 
 **[CVE-2026-115449](https://nvd.nist.gov/vuln/detail/CVE-2026-115449) | libslirp**
 

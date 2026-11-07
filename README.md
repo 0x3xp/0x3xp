@@ -4,7 +4,7 @@ I'm a low-level security engineer and offensive tooling developer focused on AV/
 
 **Vulnerability Research**
 
-**[CVE-2026-115449](https://nvd.nist.gov/vuln/detail/CVE-2026-115449) | libslirp**
+**[CVE-2026-120830](https://nvd.nist.gov/vuln/detail/CVE-2026-120830) | [CVE-2026-120831](https://nvd.nist.gov/vuln/detail/CVE-2026-120831) | [CVE-2026-115449](https://nvd.nist.gov/vuln/detail/CVE-2026-115449)**
 
 **Socials**
 

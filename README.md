@@ -8,12 +8,12 @@ I'm a low-level security engineer and offensive tooling developer focused on AV/
 
 **Socials**
 
-* [Portfolio](https://0x3xp.github.io)
+* [Portfolio](https://piyushaakash.online)
 * [LinkedIn](https://linkedin.com/in/piyushaakash)
 * [YouTube](https://youtube.com/@infoseclk)
 * [X(Twitter)](https://x.com/0xmrlowlevel)
 
 **Writing**
 
-* [dev.to/mr-lowlevel](https://dev.to/mr-lowlevel)
-* [piyushaakash.medium.com](https://piyushaakash.medium.com)
+* [Blog - piyushaakash.online/blog](https://piyushaakash.online/blog)
+* [Medium - piyushaakash.medium.com](https://piyushaakash.medium.com)
